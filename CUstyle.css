@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+#banner{
+    margin-top: 90px;
+    border-radius: 20px;
+
+}
